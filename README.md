@@ -1,5 +1,5 @@
 # Processing-Dark-Theme
-A dark theme for processing, to make it a little more like Visual Studio 2019. 
+A dark theme for processing, to make it a little more like Visual Studio 2019. The background/foreground colours are from [https://github.com/liquidev/processing-monokai-theme](processing-monokai-theme).
 
 ![screenshot](/processing%20dark%20theme.png?raw=true)
 
@@ -34,6 +34,7 @@ editor.token.operator.style=#F7C527,plain
 
 ## References ##
 * [https://github.com/processing/processing/wiki/Dark-Theme-for-PDE](https://github.com/processing/processing/wiki/Dark-Theme-for-PDE)
+* [https://github.com/liquidev/processing-monokai-theme](https://github.com/liquidev/processing-monokai-theme)
 * [https://github.com/jeffThompson/DarkProcessingTheme_3.0](https://github.com/jeffThompson/DarkProcessingTheme_3.0)
 * [https://github.com/LazyDkk/Processing-Dark-Theme-3.5.3](https://github.com/LazyDkk/Processing-Dark-Theme-3.5.3)
 * [https://github.com/marky0470/ultra-neo-desk-top](https://github.com/marky0470/ultra-neo-desk-top)
