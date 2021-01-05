@@ -1,5 +1,5 @@
 # Processing-Dark-Theme
-A dark theme for processing, to make it a little more like Visual Studio 2019. The background/foreground colours are from [https://github.com/liquidev/processing-monokai-theme](processing-monokai-theme).
+A dark theme for processing, to make it a little more like Visual Studio 2019. The background/foreground colours are from [processing-monokai-theme](https://github.com/liquidev/processing-monokai-theme).
 
 ![screenshot](/processing%20dark%20theme.png?raw=true)
 
