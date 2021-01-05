@@ -1,12 +1,12 @@
 # Processing-Dark-Theme
-A dark theme for processing, to make it a little more like Visual Studio 2019.
+A dark theme for processing, to make it a little more like Visual Studio 2019. 
 
 ![screenshot](/processing%20dark%20theme.png?raw=true)
 
 ## Installation ##
 * Navigate to `%appdata%\processing`
-* Copy preferences.txt and rename to preferences_default.txt
-* Open preferences.txt 
+* Copy 'preferences.txt' and rename to 'preferences_default.txt'
+* Open 'preferences.txt' 
 * Replace `editor.token.*` with these values.
 ```
 editor.token.comment1.style=#00DCBE,plain
@@ -27,6 +27,10 @@ editor.token.literal1.style=#F99B72,plain
 editor.token.literal2.style=#14A078,plain
 editor.token.operator.style=#F7C527,plain
 ```
+* Navigate to ```[your Processing folder]/lib```
+* Copy `theme.txt and rename to 'theme_default.txt`
+* Open `theme.txt`
+* Replace contents with new theme.
 
 ## References ##
 * [https://github.com/processing/processing/wiki/Dark-Theme-for-PDE](https://github.com/processing/processing/wiki/Dark-Theme-for-PDE)
