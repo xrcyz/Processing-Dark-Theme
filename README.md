@@ -49,7 +49,7 @@ The `comment`, `function`, `keyword`, `label`, `literal`, and `operator` tokens 
 | FUNCTION1 | createGraphics, loadPixels, ellipse, println |
 | FUNCTION2 | mult. copy, size, add, remove |
 | FUNCTION3 | if, for, else, while, switch |
-| FUNCTION4 | setup, draw, mousePresed |
+| FUNCTION4 | setup, draw, mousePressed |
 
 ## References ##
 * [https://github.com/processing/processing/wiki/Dark-Theme-for-PDE](https://github.com/processing/processing/wiki/Dark-Theme-for-PDE)
