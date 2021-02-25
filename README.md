@@ -32,9 +32,24 @@ editor.token.operator.style=#F7C527,plain
 * Open `theme.txt`
 * Replace contents with new theme.
 
-## Documentation
+## Tokens
 
-A list of all the comment, function, keyword, label, literal, and operator variables can be found in the [processing/java/keywords.txt](https://github.com/processing/processing/blob/master/java/keywords.txt).
+The `comment`, `function`, `keyword`, `label`, `literal`, and `operator` tokens are documented at [processing/java/keywords.txt](https://github.com/processing/processing/blob/master/java/keywords.txt).
+
+| Token | Examples |
+|---|---|
+| LITERAL1 | - |
+| LITERAL2 | HSB, CENTER, TWO_PI |
+| KEYWORD1 | void, class, false, null, new |
+| KEYWORD2 | length |
+| KEYWORD3 | - |
+| KEYWORD4 | width, height, mouseX, mouseY |
+| KEYWORD5 | color, double, float |
+| KEYWORD6 | case, return, this  |
+| FUNCTION1 | createGraphics, loadPixels, ellipse, println |
+| FUNCTION2 | mult. copy, size, add, remove |
+| FUNCTION3 | if, for, else, while, switch |
+| FUNCTION4 | setup, draw, mousePresed |
 
 ## References ##
 * [https://github.com/processing/processing/wiki/Dark-Theme-for-PDE](https://github.com/processing/processing/wiki/Dark-Theme-for-PDE)
