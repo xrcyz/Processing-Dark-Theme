@@ -32,6 +32,10 @@ editor.token.operator.style=#F7C527,plain
 * Open `theme.txt`
 * Replace contents with new theme.
 
+## Documentation
+
+A list of all the comment, function, keyword, label, literal, and operator variables can be found in the [processing/java/keywords.txt](https://github.com/processing/processing/blob/master/java/keywords.txt).
+
 ## References ##
 * [https://github.com/processing/processing/wiki/Dark-Theme-for-PDE](https://github.com/processing/processing/wiki/Dark-Theme-for-PDE)
 * [https://github.com/liquidev/processing-monokai-theme](https://github.com/liquidev/processing-monokai-theme)
