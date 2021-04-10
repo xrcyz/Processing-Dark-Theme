@@ -30,7 +30,7 @@ editor.token.operator.style=#F7C527,plain
 * Navigate to ```[your Processing folder]/lib```
 * Copy `theme.txt and rename to 'theme_default.txt`
 * Open `theme.txt`
-* Replace contents with new theme.
+* Replace contents with the theme from this repo.
 
 ## Tokens
 
